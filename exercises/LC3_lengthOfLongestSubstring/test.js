@@ -12,6 +12,6 @@ test("'dvdf' returns 3", () => {
   expect(lengthOfLongestSubstring("dvdf")).toEqual(3);
 });
 
-test("'bbb' returns 1", () => {
+test("'ccc' returns 1", () => {
   expect(lengthOfLongestSubstring("bbb")).toEqual(1);
 });
